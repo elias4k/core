@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Entidades\" />
+    <Folder Include="Interfaces\" />
     <Folder Include="Extensores\" />
     <Folder Include="Filtros\" />
     <Folder Include="Servicios\" />
