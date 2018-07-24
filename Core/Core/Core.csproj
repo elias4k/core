@@ -8,7 +8,6 @@
     <Folder Include="Interfaces\" />
     <Folder Include="Extensores\" />
     <Folder Include="Filtros\" />
-    <Folder Include="Servicios\" />
   </ItemGroup>
 
 </Project>
